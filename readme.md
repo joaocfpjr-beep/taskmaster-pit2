@@ -18,7 +18,7 @@ A modelagem do sistema foi planejada seguindo boas práticas de engenharia de so
 3. **Gestão de Usuários e Autenticação:** Controle de membros da equipe com registro automatizado de autoria nas tarefas.
 
 ## 🔗 Links de Acesso e Evidências
-* **Aplicação em Funcionamento:** [https://www.appsheet.com/start/923d8217-1ed2-4e6c-8451-f157eaf3d26f](TaskMaster)
+* **Aplicação em Funcionamento:** [TaskMaster](https://www.appsheet.com/start/923d8217-1ed2-4e6c-8451-f157eaf3d26f)
 * **Vídeos Demonstrativos:** 
 
 ---
